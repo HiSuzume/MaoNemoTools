@@ -1,0 +1,46 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  orientation="vertical";
+  layout_height="fill";
+  {
+    LinearLayout;
+    orientation="vertical";
+    gravity="center";
+    layout_width="fill";
+    layout_height="fill";
+    layout_weight="1";
+    {
+      Button;
+      id="DKFXLJ";
+      layout_margin="5dp";
+      text="打开分享链接";
+    };
+    {
+      Button;
+      text="训师号查用户";
+      layout_margin="5dp";
+      id="CXXLSBH";
+    };
+     {
+      Button;
+      text="运行内置浏览器";
+      layout_margin="5dp";
+      id="NZLLQ";
+    };
+    {
+      Button;
+      text="主菜单";
+      layout_margin="5dp";
+      id="ZCD";
+    };
+  };
+  {
+    TextView;
+    text="作者:HiSuzume   不保证永久使用";
+    layout_margin="5dp";
+    gravity="center";
+    layout_width="fill";
+    textSize="15sp";
+  };
+};

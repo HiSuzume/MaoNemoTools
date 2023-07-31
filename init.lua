@@ -1,0 +1,16 @@
+appname="MaoNemoTools"
+appver="1.0.0"
+appcode="10000"
+appsdk="15"
+path_pattern=""
+packagename="github.suzume.maonemotools"
+theme="Theme"
+app_key=""
+app_channel=""
+developer=""
+description=""
+debugmode=true
+user_permission={
+  "INTERNET",
+  "POPUP_BACKGROUND_WINDOW"
+}
